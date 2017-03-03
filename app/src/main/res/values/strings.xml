@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoryLeakDemo</string>
+    <string name="handlerbad">点击去HandlerBad</string>
+    <string name="textview">TextView</string>
+</resources>
